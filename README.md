@@ -25,7 +25,8 @@ Collections of Papers and Codes about Communication Systems Built by Autoencoder
 
 ## Introduction  
 [back to content](#AE-Com-Roadmap)
-- **T. O’Shea and J. Hoydis, “An Introduction to Deep Learning for the Physical Layer,” IEEE Trans. Cogn. Commun. Netw., vol. 3, no. 4, pp. 563–575, Dec. 2017.**
+- **T. O’Shea and J. Hoydis, “An Introduction to Deep Learning for the Physical Layer,” IEEE Trans. Cogn. Commun. Netw., vol. 3, no. 4, pp. 563–575, Dec. 2017.**  
+
 | Class |  Links | Description |  
 |-|-|-|  
 | _paper_ | [[Arxiv](http://arxiv.org/abs/1702.00832)][[IEEE](http://ieeexplore.ieee.org/document/8054694/)] | origin work of autoencoder communication systems |  
