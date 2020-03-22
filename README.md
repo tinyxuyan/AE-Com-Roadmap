@@ -38,10 +38,6 @@ Collections of Papers and Codes about Communication Systems Built by Autoencoder
 | - | [mikepatel](https://github.com/mikepatel/Deep-Learning-and-Communications-Systems) | add rayleigh fading |  
 
 
-
-
-
-
 ## Code Design
 [back to content](#AE-Com-Roadmap)
 - M. Kim, N. I. Kim, W. Lee, and D. H. Cho, “**Deep Learning-Aided SCMA**”, IEEE Commun. Lett., vol. 22, no. 4, pp. 720–723, 2018. [[IEEE](https://ieeexplore.ieee.org/document/8254356/)]
