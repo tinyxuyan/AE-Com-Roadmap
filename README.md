@@ -12,7 +12,7 @@ Collections of Papers and Codes about Communication Systems Built by Autoencoder
 	- [OFDM](#ofdm)
 	- [MIMO](#mimo)
 	- [Non-linear Channels](#non-linear-channels)
-	- [Non-differential Channel](#non-differential-channel)
+	- [Non-differential Channels](#non-differential-channels)
 	- [Waveform-based AE](#waveform-based-ae)
 	- [CNN-RNN structure](#cnn-rnn-structure)
 	- [Optical Fibre Communications](#optical-fibre-communications)
@@ -101,7 +101,7 @@ Collections of Papers and Codes about Communication Systems Built by Autoencoder
 - C. Lu, W. Xu, S. Jin, and K. Wang, “**Bit-level Optimized Neural Network for Multi-antenna Channel Quantization**”, IEEE Wirel. Commun. Lett., pp. 1–1, 2019. [[Arxiv](http://arxiv.org/abs/1909.10730)]
 - M. Varasteh, J. Hoydis, and B. Clerckx, “**Learning to Communicate and Energize : Modulation , Coding and Multiple Access Designs for Wireless Information-Power Transmission**”, pp. 1–30. [[Arxiv](http://arxiv.org/abs/1909.06492)]
 
-## Non-differential Channel
+## Non-differential Channels
 [back to content](#AE-Com-Roadmap)
 - M. Goutay, F. A. Aoudia, and J. Hoydis, “**Deep Reinforcement Learning Autoencoder with Noisy Feedback**”, 2018. [[Arxiv](http://arxiv.org/abs/1810.05419)]  
 - T. J. O’Shea, T. Roy, and N. West, “**Approximating the Void: Learning Stochastic Channel Models from Observation with Variational Generative Adversarial Networks**”, 2018. [[Arxiv](http://arxiv.org/abs/1805.06350)]
@@ -163,8 +163,7 @@ Collections of Papers and Codes about Communication Systems Built by Autoencoder
 ## Security
 [back to content](#AE-Com-Roadmap)
 - M. Sadeghi and E. G. Larsson, “**Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems**”, IEEE Commun. Lett., vol. 23, no. 5, pp. 847–850, 2019. [[IEEE](https://ieeexplore.ieee.org/document/8651357/)]
-[[Code](https://github.com/meysamsadeghi/)]
-Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems, 2019
+[[Code](https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems)]
 
 ## Hardware Implementation
 [back to content](#AE-Com-Roadmap)
